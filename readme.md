@@ -38,3 +38,7 @@ Fortalecer mis conocimientos en programación y desarrollar proyectos que demues
 Técnico en Programación de Software · SENA
 
 Ficha 3538620
+## Mi proceso de aprendizaje
+
+Este proyecto me permitió practicar el consumo de APIs REST,
+el manejo de PHP y el control de versiones con Git y GitHub.
